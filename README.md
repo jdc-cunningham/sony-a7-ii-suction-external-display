@@ -6,6 +6,9 @@ This is not worth doing because the display is so dim, you can barely see it on 
 #### Outdoors
 <img src="./external-display-1.JPG" width="800"/>
 
+#### Exploded view
+<img src="./exploded-view.JPG" width="800"/>
+
 #### Diagram
 
 <img src="./diagram.png" width="800"/>
